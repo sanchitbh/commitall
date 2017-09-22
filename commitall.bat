@@ -1,0 +1,1 @@
+php.exe E:\Dropbox\projects\fun\commitall\commit.php
